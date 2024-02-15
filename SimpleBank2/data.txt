@@ -1,0 +1,10 @@
+Michael,02102,Petone,0.5
+Jim,63132,Alicetown,1
+Pam,09214,Woburn,1
+Dwight,59379,Waterloo,1
+Angela,09087,Epuni,1
+Kelly,08921,Naenae,1
+Katniss,02734,District12,1
+Snow,43445,Capitol,0.5
+Hello,027,Aussie,1
+Ran,021,Wellington1,1
